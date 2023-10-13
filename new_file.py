@@ -1,1 +1,1 @@
-print(O Lucas gosta de banan no cu!)
+print(O Lucas gosta de banana no cu!)
