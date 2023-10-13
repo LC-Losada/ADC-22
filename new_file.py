@@ -1,7 +1,7 @@
 
 print("Tá quieto Stick La Pisse")
 
-katota = input("Seleciona o tipo de Katota q tu gostas ("Farfalhuda", "Inchada", "Obesa", "Escancarada", Seleciona com as inicias:)")
+katota = input("""Seleciona o tipo de Katota q tu gostas ("Farfalhuda", "Inchada", "Obesa", "Escancarada", Seleciona com as inicias:)""")
 
 if katota == 'F' or katota == 'f':
   print("Ganda bixo!")
